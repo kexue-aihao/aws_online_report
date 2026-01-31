@@ -15,3 +15,5 @@
 ## AWS光帆KR IP变更
 
 🔗 [AWS光帆KR_IP变更 (IP变更)](https://github.com/kexue-aihao/aws_online_report/blob/master/aws_kr_Lightsail.md)
+
+- 撤销AWS新加坡隧道
